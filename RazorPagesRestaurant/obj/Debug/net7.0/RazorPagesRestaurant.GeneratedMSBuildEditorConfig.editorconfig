@@ -28,6 +28,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ketsiadusenge/Desktop/GIT projects/csci340lab8/RazorPagesRestaurant/Pages/Restaurants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ketsiadusenge/Desktop/GIT projects/csci340lab8/RazorPagesRestaurant/Pages/Restaurants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ketsiadusenge/Desktop/GIT projects/csci340lab8/RazorPagesRestaurant/Pages/Restaurants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ketsiadusenge/Desktop/GIT projects/csci340lab8/RazorPagesRestaurant/Pages/Restaurants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ketsiadusenge/Desktop/GIT projects/csci340lab8/RazorPagesRestaurant/Pages/Restaurants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ketsiadusenge/Desktop/GIT projects/csci340lab8/RazorPagesRestaurant/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -27,28 +27,32 @@ public static class SeedData
                 {
                     Name = "Brick&Forge",
                     Location = "Conway",
-                    Price = 40
+                    Price = 40,
+                    Order = "Alfredo Pasta"
                 },
 
                 new Restaurant
                 {
                     Name = "JJ",
                     Location = "Conway",
-                    Price = 50
+                    Price = 50,
+                    Order = "Mac&Cheese"
                 },
 
                 new Restaurant
                 {
                     Name = "Mike's",
                     Location = "Conway",
-                    Price = 50
+                    Price = 50,
+                    Order = "Alfedo Pasta"
                 },
 
                 new Restaurant
                 {
                     Name = "Rooftop",
                     Location = "Littlerock",
-                    Price = 50
+                    Price = 50,
+                    Order = "Grilled Chicken Specials"
                 }
             );
             context.SaveChanges();
